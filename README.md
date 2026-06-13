@@ -58,3 +58,4 @@ Email marketing and Gmail integration tool for managing campaigns and templates.
   <br><br>
   <a href="https://github.com/abnormal-yi"><img src="https://img.shields.io/badge/GitHub-abnormal--yi-7B5CFA?style=for-the-badge&logo=github" /></a>
 </div>
+
